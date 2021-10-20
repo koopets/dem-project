@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         
         view.backgroundColor = .systemYellow
         
-        let CheckYourHead = "Check Your Head"
+        
         
     }
 
